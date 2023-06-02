@@ -2,8 +2,8 @@
 
 ## deployed link
 
-[Url link for preview][def]
-[Github link using http][githubLink]
+- [Url link for preview][def]
+- [Github link using http][githubLink]
 
 [githubLink]: https://github.com/AbisolaPistis/EDSA.git
 [def]: https://edsa-bisola.netlify.app/
