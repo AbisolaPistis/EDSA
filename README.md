@@ -2,8 +2,10 @@
 
 ## deployed link
 
-[github link using http][def]
+[Url link for preview][def]
+[Github link using http][githubLink]
 
-https://github.com/AbisolaPistis/EDSA.git
-
+[githubLink]: https://github.com/AbisolaPistis/EDSA.git
 [def]: https://edsa-bisola.netlify.app/
+
+![My EDSA assignment screenshot !](/assets/EDSA.png "My EDSA assignment screenshot")
