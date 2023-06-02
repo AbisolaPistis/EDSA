@@ -150,6 +150,12 @@ main h2 {
 .blog__posts--text h4 {
   font-size: 20px;
 }
+
+.blog__posts--text span {
+  font-size: 14px;
+  color: var(--primary-600);
+  font-weight: 600;
+}
 .blog__posts--text p {
   color: var(--primary-grey);
 }
