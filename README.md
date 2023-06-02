@@ -1,6 +1,6 @@
 # EDSA assignment
 
-## deployed link
+## Links
 
 - [Url link for preview][def]
 - [Github link using http][githubLink]
